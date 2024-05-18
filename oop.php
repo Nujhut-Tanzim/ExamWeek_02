@@ -98,11 +98,12 @@ class Book {
    
    
    // TODO: Create 2 members with the following properties
-   $member1=new Member("John Doe");
-   $member2=new Member("Jane Smith");
    /* Member 1 - Name: John Doe
    Member 2 - Name: Jane Smith
     */
+   $member1=new Member("John Doe");
+   $member2=new Member("Jane Smith");
+   
    
    
    // TODO: Apply Borrow book method to each member
